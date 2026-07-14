@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vder6w.aquariumlesson.com/sitemap.xml
